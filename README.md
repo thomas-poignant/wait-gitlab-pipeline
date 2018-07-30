@@ -1,5 +1,5 @@
 # Wait gitlab pipeline
-----
+
 A small script to wait until the gitlab pipeline is done.
 It use gitlab API v4.
 
